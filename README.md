@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eamcgill90
 - 👀 I’m interested in gaming, cats, web design, and kayaking. 
-- 🌱 I’m currently learning the ins and outs of Nova.app
-- 📫 How to reach me. Add me on LinkedIn (for now!)
+- 📫 You can find me here: https://mastodon.social/@macaroon1 
 
 <!---
 eamcgill90/eamcgill90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
